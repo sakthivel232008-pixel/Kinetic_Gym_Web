@@ -1,0 +1,6 @@
+{
+  "name": "KINETIC // Elite Strength & Performance Club",
+  "description": "High-performance gym, Olympic strength platforms, metabolic conditioning, contrast therapy recovery, and live class booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
